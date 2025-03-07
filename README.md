@@ -48,7 +48,7 @@ python main.py
 - `tasks.py`: Task functions for fetching news and generating the newsletter
 
 ## Previous Iterations
-agent0.py: An earlier version of the agent system that attempted to use the GPT-2 model by HuggingFace for summarization. This file demonstrates the project's evolution and experimentation with different language models. While it didn't achieve the desired results, it serves as a valuable reference for the development process and the decision to switch to the current model used in agents.py.
+`agents0.py`: An earlier version of the agent system that attempted to use the GPT-2 model by HuggingFace for summarization. This file demonstrates the project's evolution and experimentation with different language models. While it didn't achieve the desired results, it serves as a valuable reference for the development process and the decision to switch to the current model used in agents.py.
 
 ## Demo Output
 
